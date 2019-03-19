@@ -1,0 +1,4 @@
+--CREATE DATABASE payment;
+--CREATE USER 'teste'@'localhost' IDENTIFIED BY '1234';
+--GRANT ALL PRIVILEGES ON payment To 'teste'@'localhost';
+--FLUSH PRIVILEGES;

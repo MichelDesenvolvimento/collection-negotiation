@@ -1,0 +1,4 @@
+--CREATE DATABASE billing;
+--CREATE USER 'teste'@'localhost' IDENTIFIED BY '1234';
+--GRANT ALL PRIVILEGES ON billing To 'teste'@'localhost';
+--FLUSH PRIVILEGES;
